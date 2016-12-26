@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">DANH SÁCH CÔNG VIỆC</string>
+
+
+    <string name="title_activity_todo">Thêm công việc mới!</string>
+    <string name="title_activity_todo_edit">Chỉnh sửa công việc.</string>
+    <string name="title_activity_about">Giới thiệu.</string>
+
+
+    <string name="action_about">About</string>
+    <string name="action_discard">Hủy bỏ thao tác</string>
+    <string name="action_delete">Xóa công việc.</string>
+
+
+    <string name="no_todo">Không có công việc cần làm!</string>
+    <string name="completed">Đã hoàn thành!</string>
+    <string name="edit">Chỉnh sửa.</string>
+    <string name="delete">Xóa.</string>
+    <string name="description">Nội dung.</string>
+    <string name="title">Tiêu đề.</string>
+</resources>
